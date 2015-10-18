@@ -13,6 +13,16 @@
         android:layout_height= "fill_parent"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/barcode_header"
+        android:id="@+id/status_message"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true" />
+
 
     <TextView
         android:layout_width="wrap_content"
@@ -26,13 +36,13 @@
         android:layout_alignRight="@+id/status_message"
         android:layout_alignEnd="@+id/status_message" />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/view_tree"
-        android:id="@+id/view_tree"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true" />
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="@string/view_tree"-->
+        <!--android:id="@+id/view_tree"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_centerHorizontal="true" />-->
 
     <Button
         android:layout_width="match_parent"

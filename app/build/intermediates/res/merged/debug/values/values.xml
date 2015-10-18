@@ -344,10 +344,9 @@
     <string name="auth_google_play_services_client_google_display_name">Google</string>
     <!-- From: file:/home/jahall/projects/android/apps/barcode-reader/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="auto_focus">Auto Focus</string>
     <string name="barcode_error">"Error reading barcode: %1$s"</string>
     <string name="barcode_failure">No barcode captured</string>
-    <string name="barcode_header">Click "Read Barcode" to read a barcode</string>
+    <string name="barcode_header">Scan code to join tree</string>
     <string name="barcode_success">Barcode read successfully</string>
     <!-- From: file:/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/res/values/cast_strings.xml -->
     <eat-comment/>
@@ -397,6 +396,7 @@
     <string name="decline">Decline</string>
     <!-- From: file:/home/jahall/projects/android/apps/barcode-reader/app/src/main/res/values/strings.xml -->
     <eat-comment/>
+    <string name="join_tree">Join Pyramid</string>
     <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
     <!-- From: file:/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
@@ -415,7 +415,6 @@
     <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
     <string name="ok">OK</string>
     <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
-    <string name="read_barcode">Read Barcode</string>
     <!-- From: file:/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -425,8 +424,8 @@
     <string name="store_picture_title">Save image</string>
     <!-- From: file:/home/jahall/projects/android/apps/barcode-reader/app/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="title_activity_main">Barcode Reader Sample</string>
-    <string name="use_flash">Use Flash</string>
+    <string name="title_activity_main">Shitty Pyramid Scheme</string>
+    <string name="view_tree">View Pyramid</string>
     <!-- From: file:/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/res/values/wallet_strings.xml -->
     <eat-comment/>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>

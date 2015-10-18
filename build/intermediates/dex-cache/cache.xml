@@ -2,18 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="482de223655d06253cc6a4955d653f8994169500">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-c76f8a246d6c6034990698f4d09faf9eedc60a19.jar" />
-    </item>
-    <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-b2c473bdbd8490ec2c4100299d3f26de224a6d68.jar" />
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-18141c938f2d9d8a48ddbbc48271117a6859edff.jar" />
     </item>
     <item
         jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
@@ -23,34 +16,6 @@
         <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-97d8da4996a909527a1bc03e85a39a068603cb2b.jar" />
     </item>
     <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-8f7b025345a6ccd3d1fc2c414288578cfa2823b9.jar" />
-    </item>
-    <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-1aa9e8e8fc13d09f988dee3c297a0384f44d60f8.jar" />
-    </item>
-    <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="17449c47df35c754b257532052f1270c444f7993">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-18141c938f2d9d8a48ddbbc48271117a6859edff.jar" />
-    </item>
-    <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-b02c3e331dd29ec12c8c1385e64e8488016eba21.jar" />
-    </item>
-    <item
         jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -58,11 +23,53 @@
         <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-d307ee22ae0594bcd315365fba3f926e5d184e25.jar" />
     </item>
     <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-6bd0a84bd492bda25f2afd64b5c2b7ba327220d9.jar" />
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-41af75273313a060e70b898f48cce2e15da0ee52.jar" />
+    </item>
+    <item
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-6db9b9d400fae98070fa5813e9782120ea0a3f8f.jar" />
+    </item>
+    <item
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-c577fd7e8e8245efdbca0d9eaf2f3ceaca1d5072.jar" />
+    </item>
+    <item
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-443b805ffa897453168a79bfec5d43316300e743.jar" />
+    </item>
+    <item
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-8f7b025345a6ccd3d1fc2c414288578cfa2823b9.jar" />
+    </item>
+    <item
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-c78e237235241597301571b153f5f652f4b686d6.jar" />
+    </item>
+    <item
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-957f39bb1fd4fc89df37c3a70cbb8afdc7b04cb8.jar" />
     </item>
     <item
         jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
@@ -79,46 +86,18 @@
         <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-35b50732354c48dd708ebb2f03960cd0720f14d7.jar" />
     </item>
     <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-7848d03cadd23b3a362fe59e65701cf0be4832fd.jar" />
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-c76f8a246d6c6034990698f4d09faf9eedc60a19.jar" />
     </item>
     <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-c577fd7e8e8245efdbca0d9eaf2f3ceaca1d5072.jar" />
-    </item>
-    <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-41af75273313a060e70b898f48cce2e15da0ee52.jar" />
-    </item>
-    <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-443b805ffa897453168a79bfec5d43316300e743.jar" />
-    </item>
-    <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3178362320bcf51228835b60ff978efadfd1f783">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-6ecb5fcba56c74ef9b457bda236c4569eddd3493.jar" />
-    </item>
-    <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-54c2d6d939c54a47577c525993fe092938a148c5.jar" />
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-d9bdc948bedbb38f0b25b0200459e238399f7d5a.jar" />
     </item>
     <item
         jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
@@ -128,53 +107,11 @@
         <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-ff16f5b2bf847c98298b6c2d8ad89113a82236b6.jar" />
     </item>
     <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-6db9b9d400fae98070fa5813e9782120ea0a3f8f.jar" />
-    </item>
-    <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-f58c08f554809065d133820eac386403d9c78b20.jar" />
-    </item>
-    <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-f60cfaadb4d98edfc60fa725104fc6b1a794b6aa.jar" />
-    </item>
-    <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-64a159a37299c4301691bb617b908007ff64115b.jar" />
-    </item>
-    <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="997773777cf3904c11d6764fe3b7668538220e49">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-cf8e5379d06b3a5793dc5d2e56a8815834e37379.jar" />
-    </item>
-    <item
-        jar="/home/jahall/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-a20a0f39731a4b459b083f762b01c1bb4cadf990.jar" />
-    </item>
-    <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-957f39bb1fd4fc89df37c3a70cbb8afdc7b04cb8.jar" />
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-6ecb5fcba56c74ef9b457bda236c4569eddd3493.jar" />
     </item>
     <item
         jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
@@ -184,11 +121,67 @@
         <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-8f9d54e17c6f5b6bc73d0d7c3102ff543c043dd9.jar" />
     </item>
     <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-c78e237235241597301571b153f5f652f4b686d6.jar" />
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-1aa9e8e8fc13d09f988dee3c297a0384f44d60f8.jar" />
+    </item>
+    <item
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-6bd0a84bd492bda25f2afd64b5c2b7ba327220d9.jar" />
+    </item>
+    <item
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-64a159a37299c4301691bb617b908007ff64115b.jar" />
+    </item>
+    <item
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-b02c3e331dd29ec12c8c1385e64e8488016eba21.jar" />
+    </item>
+    <item
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-cf8e5379d06b3a5793dc5d2e56a8815834e37379.jar" />
+    </item>
+    <item
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-b2c473bdbd8490ec2c4100299d3f26de224a6d68.jar" />
+    </item>
+    <item
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-f58c08f554809065d133820eac386403d9c78b20.jar" />
+    </item>
+    <item
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-7848d03cadd23b3a362fe59e65701cf0be4832fd.jar" />
+    </item>
+    <item
+        jar="/home/jahall/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-a20a0f39731a4b459b083f762b01c1bb4cadf990.jar" />
     </item>
     <item
         jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
@@ -198,11 +191,18 @@
         <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-cbebc31fef132fc30ba4bbf2047cdb7be3d0d503.jar" />
     </item>
     <item
-        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
-        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-d9bdc948bedbb38f0b25b0200459e238399f7d5a.jar" />
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-54c2d6d939c54a47577c525993fe092938a148c5.jar" />
+    </item>
+    <item
+        jar="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/jahall/projects/android/apps/barcode-reader/app/build/intermediates/pre-dexed/debug/classes-f60cfaadb4d98edfc60fa725104fc6b1a794b6aa.jar" />
     </item>
 
 </items>

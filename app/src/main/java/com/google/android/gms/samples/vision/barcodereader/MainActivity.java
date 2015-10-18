@@ -17,6 +17,7 @@
 package com.google.android.gms.samples.vision.barcodereader;
 
 import android.content.Intent;
+import android.media.Rating;
 import android.os.Bundle;
 import android.app.Activity;
 import android.util.Log;
@@ -34,8 +35,6 @@ import com.google.android.gms.vision.barcode.Barcode;
 public class MainActivity extends Activity implements View.OnClickListener {
 
     // use a compound button so either checkbox or switch widgets work.
-    private CompoundButton autoFocus;
-    private CompoundButton useFlash;
     private TextView statusMessage;
     private TextView barcodeValue;
 
@@ -50,9 +49,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
         statusMessage = (TextView)findViewById(R.id.status_message);
         barcodeValue = (TextView)findViewById(R.id.barcode_value);
 
-        autoFocus = (CompoundButton) findViewById(R.id.auto_focus);
-        useFlash = (CompoundButton) findViewById(R.id.use_flash);
-
         findViewById(R.id.join_tree).setOnClickListener(this);
     }
 
@@ -66,8 +62,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
         if (v.getId() == R.id.join_tree) {
             // launch barcode activity.
             Intent intent = new Intent(this, BarcodeCaptureActivity.class);
-            intent.putExtra(BarcodeCaptureActivity.AutoFocus, autoFocus.isChecked());
-            intent.putExtra(BarcodeCaptureActivity.UseFlash, useFlash.isChecked());
 
             startActivityForResult(intent, RC_BARCODE_CAPTURE);
         }
